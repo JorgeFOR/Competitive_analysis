@@ -1,6 +1,6 @@
 ## Competitive Analysis Project
 
 # Objective: 
-Explore and analyse sales data from an example company using SQL and PowerBi 
+Understand and comparing sales of largest 25 US retailers. Exploratory analysis with Python and additional visualitation with PowerBI.  
 
-Start project planning and mindset for the analysis
+Preliminary conclusions in a separate file in this repository. All Files are updated regularity.
